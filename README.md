@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+# <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -106,11 +106,6 @@
 <body>
 
     <div class="container">
-        
-        <div class="profile-header">
-            <h1 class="profile-title">@hussain</h1>
-            <p class="profile-subtitle">Find me on these platforms</p>
-        </div>
 
         <div class="links-wrapper">
             

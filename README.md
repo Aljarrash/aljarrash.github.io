@@ -95,8 +95,8 @@
         .social-link:hover .fa-goodreads { color: #e9e5cd; }
         .social-link:hover .fa-film { color: #00e573; } /* Letterboxd */
         .social-link:hover .fa-imdb { color: #f5c518; }
-        .social-link:hover .fa-x-twitter { color: #ffffff; }
         .social-link:hover .fa-tv { color: #2e51a2; } /* MyAnimeList */
+        .social-link:hover .fa-twitter { color: #1DA1F2; } /* Twitter */
         .social-link:hover .fa-instagram { color: #E1306C; }
         .social-link:hover .fa-steam { color: #66c0f4; }
         .social-link:hover .fa-xbox { color: #107C10; }
@@ -132,16 +132,16 @@
                 IMDb
             </a>
 
-            <!-- Twitter / X -->
-            <a href="https://x.com/floorcollapsing" target="_blank" rel="noopener noreferrer" class="social-link">
-                <i class="fa-brands fa-x-twitter"></i>
-                Twitter
-            </a>
-
             <!-- MyAnimeList -->
             <a href="https://myanimelist.net/profile/aljarrash" target="_blank" rel="noopener noreferrer" class="social-link">
                 <i class="fa-solid fa-tv"></i>
                 MyAnimeList
+            </a>
+            
+            <!-- Twitter / X -->
+            <a href="https://x.com/floorcollapsing" target="_blank" rel="noopener noreferrer" class="social-link">
+                <i class="fa-brands fa-twitter"></i>
+                Twitter
             </a>
 
             <!-- Instagram -->

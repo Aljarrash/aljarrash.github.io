@@ -77,7 +77,7 @@
     .social-link:hover .imdb-custom-icon { color: #f5c518; }
     .social-link:hover .fa-tv { color: #2e51a2; }
     .social-link:hover .fa-twitter { color: #1DA1F2; }
-    .social-link:hover .fa-instagram { color: #E1306C; }
+    .social-link:hover .fa-spotify { color: #1DB954; }
     .social-link:hover .fa-steam { color: #171a21; }
     .social-link:hover .fa-xbox { color: #107C10; }
 </style>
@@ -110,9 +110,9 @@
             Twitter
         </a>
 
-        <a href="https://www.instagram.com/synecdoche_new.york?igsh=MWw0Z2FzYTR5eGw4dw==" target="_blank" rel="noopener noreferrer" class="social-link">
-            <i class="fa-brands fa-instagram"></i>
-            Instagram
+        <a href="https://open.spotify.com/user/hussainjay?si=jPyltA-YQSG8MM1wB1Q69w" target="_blank" rel="noopener noreferrer" class="social-link">
+            <i class="fa-brands fa-spotify"></i>
+            Spotify
         </a>
 
         <a href="https://steamcommunity.com/id/hussains/" target="_blank" rel="noopener noreferrer" class="social-link">
